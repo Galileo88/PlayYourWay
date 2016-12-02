@@ -12,3 +12,7 @@ just make the necessary changes in the cfg.
 
 
 ENJOY!
+
+License:
+_Public domain_
+

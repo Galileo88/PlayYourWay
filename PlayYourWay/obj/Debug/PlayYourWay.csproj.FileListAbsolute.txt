@@ -1,0 +1,7 @@
+c:\users\tavish\documents\visual studio 2015\Projects\PlayYourWay\PlayYourWay\bin\Debug\PlayYourWay.dll
+c:\users\tavish\documents\visual studio 2015\Projects\PlayYourWay\PlayYourWay\bin\Debug\PlayYourWay.pdb
+c:\users\tavish\documents\visual studio 2015\Projects\PlayYourWay\PlayYourWay\bin\Debug\Assembly-CSharp.dll
+c:\users\tavish\documents\visual studio 2015\Projects\PlayYourWay\PlayYourWay\bin\Debug\UnityEngine.dll
+c:\users\tavish\documents\visual studio 2015\Projects\PlayYourWay\PlayYourWay\obj\Debug\PlayYourWay.csprojResolveAssemblyReference.cache
+c:\users\tavish\documents\visual studio 2015\Projects\PlayYourWay\PlayYourWay\obj\Debug\PlayYourWay.dll
+c:\users\tavish\documents\visual studio 2015\Projects\PlayYourWay\PlayYourWay\obj\Debug\PlayYourWay.pdb

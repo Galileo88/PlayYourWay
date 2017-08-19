@@ -1,8 +1,8 @@
 # PlayYourWay
-**v1.0.2**
+**v1.0.3**
 
-Play Your Way removes ALL contracts, and frees up your imagination to explore the way you see fit. 
-Thats not all though! Play Your Way also rewards you with REP and pays you FUNDS based on any science points you accumulate while you explore. 
+Play Your Way frees up your imagination to explore the way you see fit. 
+Thats not all, though! Play Your Way also rewards you with REP and pays you FUNDS based on any science points you accumulate while you explore. 
 
 Also, how much you get paid is completely up to you!
 
@@ -13,7 +13,7 @@ So, basically, there's no contracts and you get paid whatever you want for doing
 
 This can either make the game really hard or really easy, depending on how you set your cfg.
 
-If you want contracts AND to still get rewarded from doing experiments, just delete the NoContracts.cfg from the PlayYourWay folder in your GameData.
+Download and install Contract Configurator to pick and choose which contracts you want to spawn.
 
 ENJOY!
 

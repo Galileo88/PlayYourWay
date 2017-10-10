@@ -1,5 +1,5 @@
 # PlayYourWay
-**v1.0.3**
+**v1.0.5**
 
 Play Your Way frees up your imagination to explore the way you see fit. 
 Thats not all, though! Play Your Way also rewards you with REP and pays you FUNDS based on any science points you accumulate while you explore. 

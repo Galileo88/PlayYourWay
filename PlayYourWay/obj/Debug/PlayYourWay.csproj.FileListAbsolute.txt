@@ -5,3 +5,19 @@ c:\users\tavish\documents\visual studio 2015\Projects\PlayYourWay\PlayYourWay\bi
 c:\users\tavish\documents\visual studio 2015\Projects\PlayYourWay\PlayYourWay\obj\Debug\PlayYourWay.csprojResolveAssemblyReference.cache
 c:\users\tavish\documents\visual studio 2015\Projects\PlayYourWay\PlayYourWay\obj\Debug\PlayYourWay.dll
 c:\users\tavish\documents\visual studio 2015\Projects\PlayYourWay\PlayYourWay\obj\Debug\PlayYourWay.pdb
+C:\Users\Tavish\Desktop\PlayYourWay\bin\Debug\PlayYourWay.dll
+C:\Users\Tavish\Desktop\PlayYourWay\bin\Debug\PlayYourWay.pdb
+C:\Users\Tavish\Desktop\PlayYourWay\obj\Debug\PlayYourWay.csprojResolveAssemblyReference.cache
+C:\Users\Tavish\Desktop\PlayYourWay\obj\Debug\PlayYourWay.csproj.CoreCompileInputs.cache
+C:\Users\Tavish\Desktop\PlayYourWay\obj\Debug\PlayYourWay.dll
+C:\Users\Tavish\Desktop\PlayYourWay\obj\Debug\PlayYourWay.pdb
+C:\Users\Tavish\Desktop\PlayYourWay\bin\Debug\Assembly-CSharp.dll
+C:\Users\Tavish\Desktop\PlayYourWay\bin\Debug\UnityEngine.dll
+C:\Users\Tavish\Desktop\PlayYourWay\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Tavish\Desktop\PlayYourWay\bin\Debug\KSPTrackIR.dll
+C:\Users\Tavish\Desktop\PlayYourWay\bin\Debug\UnityEngine.UI.dll
+C:\Users\Tavish\Desktop\PlayYourWay\bin\Debug\KSPAssets.dll
+C:\Users\Tavish\Desktop\PlayYourWay\bin\Debug\Mono.Cecil.dll
+C:\Users\Tavish\Desktop\PlayYourWay\bin\Debug\TDx.TDxInput.dll
+C:\Users\Tavish\Desktop\PlayYourWay\bin\Debug\Mono.Security.dll
+C:\Users\Tavish\Desktop\PlayYourWay\bin\Debug\UnityEngine.xml
